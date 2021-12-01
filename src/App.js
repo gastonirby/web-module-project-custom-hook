@@ -3,6 +3,7 @@ import axios from "axios";
 
 import Charts from "./components/Charts";
 import Navbar from "./components/Navbar";
+import { useDarkMode } from './hooks/useDarkMode';
 
 import "./style.css";
 
